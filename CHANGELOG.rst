@@ -36,9 +36,8 @@ Changelog
 * Flexible firmware protocol for trouble-free updates
 * Raw data stream of 3-axis gyro
 
-0.0.1  (2012-11-14)
+0.0.1 (2012-11-14)
 ------------------
 * First released version
 * Alternate serial access over the 25-pin port
 * Unique Device Indentifier
-
