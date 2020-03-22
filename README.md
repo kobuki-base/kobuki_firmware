@@ -17,4 +17,4 @@ Aside from the version numbers, there are three descriptive identifiers that can
 
 ## Flash the Firmware
 
-
+http://kobukikr.yujinrobot.com/wiki/upgrading-firmware-linux/
