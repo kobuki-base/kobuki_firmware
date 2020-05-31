@@ -26,11 +26,6 @@ install(
   DESTINATION share/${PROJECT_NAME}
 )
 
-install(
-  DIRECTORY utilities
-  DESTINATION share/${PROJECT_NAME}
-)
-
 ##############################################################################
 # Exports
 ##############################################################################
